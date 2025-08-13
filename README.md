@@ -41,4 +41,3 @@ I believe that **frontend development** is not just about writing code — it’
 ---
 
 📌 _Follow my journey and check out my projects here on GitHub!_
-"# Day-1" 
